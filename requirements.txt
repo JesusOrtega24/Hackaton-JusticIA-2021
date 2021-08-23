@@ -1,2 +1,12 @@
-pandas
-PIL
+Librerías empleadas para Reto2A en JusticIA_ExtraccionDatos.py
+- cv2
+- os
+- pytesseract
+- csv
+
+Librerías empleadas para Reto2A en JusticIA_AccesoDatos.py
+!pip install nltk
+!pip install -U pip setuptools wheel
+!pip install -U spacy
+
+!python -m spacy download es_core_news_lg
